@@ -1,8 +1,10 @@
 # Hola-Mundo
 Mi primer repositorio
 
-i love football ⚽
+I love football ⚽
 
-i like pizza 🍕
+I like pizza 🍕
 
 Im nineteen years old 1️⃣9️⃣
+
+Mi ultima linea en el repositorio. 
