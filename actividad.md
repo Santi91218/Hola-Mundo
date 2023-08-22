@@ -1,0 +1,1 @@
+Esta es la primera actividad de la clase 1 en el segundo semestre
